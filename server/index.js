@@ -11,8 +11,6 @@ app.use(cors());
 
 const CONNECTION_URL = process.env.MONGO_DB_URL;
 
-console.log(CONNECTION_URL);
-
 const SERVER_PORT = process.env.PORT || 5000;
 
 mongoose.connect(CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
