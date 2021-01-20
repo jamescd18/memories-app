@@ -8,16 +8,15 @@ This application was built by following the JavaScript Mastery tutorial series, 
 
 ### Technologies
 - MERN Stack
-    - MongoDB [^1]
-    - Express [^2]
-    - React [^2]
-    - Node.js [^2]
+    - MongoDB<sup>*</sup>
+    - Express
+    - React
+    - Node.js
 - Other
-    - Redux [^1]
-    - Google OAuth [^1]
+    - Redux<sup>*</sup>
+    - Google OAuth<sup>*</sup>
 
-[^1]: Technologies I am unfamiliar with at the beginning of the project
-[^2]: Technologies I am already familiar with and have used in past projects
+<sup>*</sup>: Technologies I am unfamiliar with at the beginning of the project
 
 ### Environment Variables
 - PORT: port for the Express server to run on
